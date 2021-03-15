@@ -1,40 +1,40 @@
 # Library Management System
-===========================
-To build a Library Management System using MVC framework
-
+===========================  
+To build a Library Management System using MVC framework  
+  
 ## Main Features
 =================
-* Login - only registered users can login
-* Register - any non-existing user can register
-* Search - only logged in users are able to search books
+* Login - only registered users can login  
+* Register - any non-existing user can register  
+* Search - only logged in users are able to search books  
 
 ## Databases & Tables
-====================
-###DB1 | DB2  | DB3
-  User | User | User
-  Book | Book | Book
+====================  
+###DB1 | DB2  | DB3  
+  User | User | User  
+  Book | Book | Book  
 
 ## Records Created In Databases
-===============================
-User accounts have been created during software testings.
+===============================    
+User accounts have been created during software testings.  
 
-#######################
-UserID: 1
-name: admin
-username: admin
-age: 27
-address: Hobart
-password: #Admin123
-email: admin@gmail.com
+#######################    
+UserID: 1  
+name: admin  
+username: admin  
+age: 27  
+address: Hobart  
+password: #Admin123  
+email: admin@gmail.com  
 
-#######################
-UserID: 2
-name: bob
-username: bob
-age: 21
-address: Launceston
-password: #Bob123
-email: bob@gmail.com
+#######################  
+UserID: 2  
+name: bob  
+username: bob  
+age: 21  
+address: Launceston  
+password: #Bob123  
+email: bob@gmail.com  
 
 #######################
 
@@ -57,9 +57,9 @@ the attributes of those tables are at least differ in an extra attribute.
 * MYSQL 
 
 ## Version
-=============
+=============  
 23 August 2019
 
 ## Author
-===========
+===========  
 Sung
